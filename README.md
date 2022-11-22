@@ -1,5 +1,15 @@
 # TCC
 
+Para conseguirmos executar o projeto é necessário realizar o download de algumas dependencias e realizar algumas operações:
+
+Node.js: apenas as versões LTS são suportadas (v14 e v16).
+yarn para executar os scripts de instalação da CL
+PostgreSQL 14.0
+
+É necesario criar um banco de dados denominado "api_hospital" dentro do PostgresSQL para conseguir realizar a execução do projeto
+
+Para cada projeto é necessario acessar o diretorio do mesmo em um terminal diferente.
+
 API_Hospital
 
 Inicalmente instalar as dependencias com o seguinte comando
